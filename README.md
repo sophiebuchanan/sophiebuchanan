@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sophiebuchanan
-- 👀 I’m interested in frog
-- 🌱 I’m currently learning frog
-- 💞️ I’m looking to collaborate on frog
-- 📫 How to reach me ..no
+- 👀 I’m interested in website design,programming,tech support & gaming
+- 🌱 I’m currently learning CSS,HTML,JAVA
+
 
 <!---
 sophiebuchanan/sophiebuchanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
